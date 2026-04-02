@@ -1,6 +1,6 @@
 # VAE_MSRNet
 Latent-Optimized Collaborative Feature Disentanglement for Enhanced Shadow Removal
-- This code is directly related to the manuscript submitted to The Circuits, Systems, and Signal Processing: `Latent-Optimized Collaborative Feature Disentanglement for Enhanced Shadow Removal.' 
+- This code is directly related to the manuscript submitted to The Pattern Analysis and Application: `Latent-Optimized Collaborative Feature Disentanglement for Enhanced Shadow Removal.' 
 If you use this code or models in your research, please cite the corresponding manuscript.
 # Requirement
 - Python 3.11
